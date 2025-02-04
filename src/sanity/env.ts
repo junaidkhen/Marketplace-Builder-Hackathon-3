@@ -12,7 +12,7 @@ export const projectId = assertValue(
 )
 
 export const token = assertValue(
-  "skZuing63Lcsm3v2ynM5Ya1mkRjuZGnUxD3MhieClRrEbaTQmBcqEnCG5UffOAYG7gc3OiGn4oMbLOGsTnUNvIVghVCLd1z3lc5L46asY4nYUGOGl7l1J0Aj3uQJx9ekgJc75cVLcd4lmjip4XRgmTeb0BG2dYn8mBQcLZpqYYNA07KoCdNx",
+  "skZZKvvmV87TKL0GCgUesAofj7gGEmakFO4SbJHoFjXYiRM9NjWMzatNBjjsqrVIjKXYxTP6moWWmm06qTMqTfS07Ghzmex2ffgPKXqlpxQGEi05DFWzqmQb5Ieje34sCyjZMwQvPYekUTzYlMySzJxZsedRfGQslzynVt8kMacjginGMRCZ",
   'Missing environment variable: SANITY_API_TOKEN'
 )
 
